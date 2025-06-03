@@ -1,4 +1,4 @@
-package FinalDanStatic;
+package FinalDanStatic.Tugas5;
 
 public class Mahasiswa {
     private final String nim; // final: tidak bisa diubah setelah inisialisasi

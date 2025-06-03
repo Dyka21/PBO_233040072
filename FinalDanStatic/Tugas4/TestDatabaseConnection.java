@@ -1,4 +1,4 @@
-package FinalDanStatic;
+package FinalDanStatic.Tugas4;
 
 public class TestDatabaseConnection {
       public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FinalDanStatic.Bank;
+package FinalDanStatic.Tugas2;
 
 public class BankAccount {
     private final String accountNumber; // final: tidak bisa diubah

@@ -1,4 +1,4 @@
-package FinalDanStatic.Bank;
+package FinalDanStatic.Tugas2;
 
 public class TestBankAccount {
     public static void main(String[] args) {

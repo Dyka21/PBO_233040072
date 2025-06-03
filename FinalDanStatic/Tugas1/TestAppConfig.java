@@ -1,4 +1,4 @@
-package FinalDanStatic;
+package FinalDanStatic.Tugas1;
 
 public class TestAppConfig {
     public static void main(String[] args) {

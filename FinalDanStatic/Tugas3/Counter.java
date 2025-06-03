@@ -1,4 +1,4 @@
-package FinalDanStatic;
+package FinalDanStatic.Tugas3;
 
 public class Counter {
      private static int instanceCount = 0; // static: milik kelas, bukan objek

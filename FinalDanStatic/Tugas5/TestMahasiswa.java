@@ -1,4 +1,4 @@
-package FinalDanStatic;
+package FinalDanStatic.Tugas5;
 
 public class TestMahasiswa {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package FinalDanStatic.Bank;
+package FinalDanStatic.Tugas2;
 // Subclass mencoba meng-override method final (AKAN ERROR!)
 
 public class SavingsAccount extends BankAccount {

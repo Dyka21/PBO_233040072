@@ -1,4 +1,4 @@
-package FinalDanStatic;
+package FinalDanStatic.Tugas1;
 
 public class AppConfig {
     public static final String BASE_URL = "https://www.myapp.com/api";
